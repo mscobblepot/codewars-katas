@@ -6,3 +6,5 @@ Solutions of katas completed on CodeWars:
 * [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
 * [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+* [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+* [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
