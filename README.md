@@ -9,3 +9,4 @@ Solutions of katas completed on CodeWars:
 * [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 * [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
+* [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
