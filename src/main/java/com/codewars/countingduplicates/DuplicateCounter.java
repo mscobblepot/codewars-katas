@@ -1,17 +1,17 @@
 package com.codewars.countingduplicates;
 
 import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
 
-import static java.util.Collections.frequency;
+import static java.util.function.Function.identity;
+import static java.util.stream.Collectors.counting;
+import static java.util.stream.Collectors.groupingBy;
 
 public class DuplicateCounter {
     public int countDuplicates(String text) {
-        List<String> characters = Arrays.asList(text.toLowerCase().split(""));
-        return characters.stream()
-                .filter(character -> frequency(characters, character) > 1)
-                .collect(Collectors.toSet())
-                .size();
+        return (int) Arrays.stream(text.toLowerCase().split(""))
+                .collect(groupingBy(identity(), counting()))
+                .entrySet().stream()
+                .filter(entry -> entry.getValue() > 1)
+                .count();
     }
 }
