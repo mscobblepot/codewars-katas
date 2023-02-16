@@ -23,7 +23,7 @@ public class OddSorter {
                 .collect(toCollection(LinkedList::new));
     }
 
-    private boolean isOdd(int numbers) {
-        return numbers % 2 != 0;
+    private boolean isOdd(int number) {
+        return number % 2 != 0;
     }
 }
