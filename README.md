@@ -10,3 +10,4 @@ Solutions of katas completed on CodeWars:
 * [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 * [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 * [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+* [More Zeros than Ones](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a)
