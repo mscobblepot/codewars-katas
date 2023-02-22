@@ -12,3 +12,4 @@ Solutions of katas completed on CodeWars:
 * [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 * [More Zeros than Ones](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a)
 * [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train)
+* [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
