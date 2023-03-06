@@ -14,3 +14,4 @@ Solutions of katas completed on CodeWars:
 * [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/train)
 * [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 * [Simple frequency sort](https://www.codewars.com/kata/5a8d2bf60025e9163c0000bc)
+* [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
