@@ -18,3 +18,4 @@ Solutions of katas completed on CodeWars:
 * [longest_palindrome](https://www.codewars.com/kata/54bb6f887e5a80180900046b)
 * [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
 * [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155)
+* [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
