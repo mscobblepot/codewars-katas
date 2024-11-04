@@ -19,3 +19,4 @@ Solutions of katas completed on CodeWars:
 * [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
 * [Character with longest consecutive repetition](https://www.codewars.com/kata/586d6cefbcc21eed7a001155)
 * [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+* [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
